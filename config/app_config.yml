@@ -1,0 +1,4 @@
+defaults: &default
+  root_url: http://www.notonthehighstreet.com/
+prod:
+  <<: *default
